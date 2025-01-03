@@ -1,0 +1,1 @@
+# SpringComponents-Declaration-Java_Configuration
